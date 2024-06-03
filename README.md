@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roma panaskar</h1>
 <h3 align="center">I’m interested in machine learning and data science</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsusalud.cps.com.pe%2F%3Fe%3Dportrait-animated-gif-on-behance-xx-PBx8zlHq&psig=AOvVaw1UV52YqvODU-cSK88jfOyp&ust=1717515650960000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi6tsviv4YDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpayalthummar&psig=AOvVaw0x3aq-kCUl5WxClWzxrUub&ust=1717515941702000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjzi9Djv4YDFQAAAAAdAAAAABAE">
   
 - 🌱 I’m currently learning **Statistics.**
 
